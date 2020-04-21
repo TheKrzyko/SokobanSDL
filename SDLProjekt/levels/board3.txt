@@ -1,0 +1,16 @@
+(19,11)
+wwwwwwwwwwwwwwwwwww
+wwwwwgggwwwwwwwwwww
+wwwwwgggwwwwwwwwwww
+wwwwwgggwwwwwwwwwww
+wwwggggggwwwwwwwwww
+wwwgwgwwgwwwwwwwwww
+wgggwgwwgwwwwwggggw
+wgggggggggggggggggw
+wwwwwgwwwgwgwwggggw
+wwwwwgggggwwwwwwwww
+wwwwwwwwwwwwwwwwwww
+6
+(2,7)(5,7)(5,4)(5,2)(7,3)(7,4)
+(17,6)(16,6)(17,7)(16,7)(17,8)(16,8)
+(11,8)

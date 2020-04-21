@@ -1,0 +1,15 @@
+(14,10)
+wwwwwwwwwwwwww
+wggggwgggggwww
+wggggwgggggggw
+wggggwgwwwwggw
+wggggggggwwggw
+wggggwgwggggww
+wwwwwwgwwggggw
+wwwggggggggggw
+wwwggggwgggggw
+wwwwwwwwwwwwww
+10
+(6,3)(7,2)(10,2)(10,5)(11,6)(11,7)(9,6)(9,7)(7,7)(4,7)
+(1,1)(2,1)(1,2)(2,2)(1,3)(2,3)(1,4)(2,4)(1,5)(2,5)
+(7,4)

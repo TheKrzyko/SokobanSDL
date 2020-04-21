@@ -1,0 +1,13 @@
+(11,8)
+wwwwwwwwwww
+wwwwwwwgggw
+wwwwwwwgwgw
+wwwwwwwgwgw
+wgggggggggw
+wgwgwgwgwww
+wgggggggwww
+wwwwwwwwwww
+3
+(4,4)(6,4)(8,4)
+(7,1)(7,2)(7,3)
+(1,4)
