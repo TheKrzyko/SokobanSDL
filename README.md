@@ -14,5 +14,5 @@ SokobanSDL is an implementation of this game in C++ and SDL, written as an acade
 ![SokonanSDL game](docs/game.png)
 
 ### Tileset
-![Sokoban tileset link](https://opengameart.org/content/sokoban-pack)
+[Sokoban tileset link](https://opengameart.org/content/sokoban-pack)
 ![Sokoban tileset](https://opengameart.org/sites/default/files/Preview_Sokoban.png)
